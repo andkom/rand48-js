@@ -1,0 +1,27 @@
+{
+  "name": "rand48.js",
+  "version": "1.0.1",
+  "description": "A rand48 implementation in pure JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andkom/rand48-js.git"
+  },
+  "keywords": [
+    "rand",
+    "random",
+    "math",
+    "math.random",
+    "rand48",
+    "rand-48"
+  ],
+  "author": "Andrei Komarov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andkom/rand48.js/issues"
+  },
+  "homepage": "https://github.com/andkom/rand48.js#readme"
+}
